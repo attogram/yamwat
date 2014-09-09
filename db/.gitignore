@@ -1,0 +1,5 @@
+*.sqlite
+*.php
+*.zip
+*.gz
+*.7z
