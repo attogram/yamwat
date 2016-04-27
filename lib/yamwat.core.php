@@ -5,7 +5,7 @@
 class yamwatINIT {
 
 	var $core_name = 'Yamwat';
-	var $core_version = '2.6';
+	var $core_version = '2.7';
 	var $core_description = 'Yet Another MediaWiki API Tool';
 	var $core_url = 'https://github.com/attogram/yamwat';
 	var $core_email = 'YOUR-EMAIL-HERE';
@@ -130,7 +130,7 @@ class yamwatCURL extends yamwatJSON {
 			return FALSE;
 		}
 
-		$this->curl->options['CURLOPT_SSLVERSION'] = 3;
+		$this->curl->options['CURLOPT_SSLVERSION'] = 4;
 		$this->curl->options['CURLOPT_SSL_VERIFYPEER'] = FALSE;
 		$this->curl->options['CURLOPT_SSL_VERIFYHOST'] = FALSE;
 		$this->curl->options['CURLOPT_CONNECTTIMEOUT'] = 15;  // connection timeout
