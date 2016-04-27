@@ -2,7 +2,7 @@ Yamwat - Yet Another MediaWiki API Tool
 ======
 ![Yamwat logo](https://raw.github.com/attogram/yamwat/master/web/img/yamwat.88.31.png)
 
-Version 2.5
+Version 2.7
 
 * Yamwat is an open source project building <b>Y</b>et <b>A</b>nother <b>M</b>edia<b>W</b>iki <b>A</b>PI <b>T</b>ool. 
 * Yamwat is written in PHP, uses a SQLite database, and has a plugin system for API calls.
@@ -78,6 +78,8 @@ Only error messages:  silent=1
 
 Changelog:
 ------
+* Version 2.7
+* Version 2.6 - moved to github
 * Version 2.5 - 2013-01-13
  * auto load all plugins in the ./lib/plugin/ directory
 * Version 2.4 - 2013-01-13

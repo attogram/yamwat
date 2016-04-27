@@ -3,7 +3,7 @@ Open Source License
 
 Yamwat - Yet Another MediaWiki API Tool: https://github.com/attogram/yamwat
 
-Copyright (c) 2014 Yamwat contributors
+Copyright (c) 2014,2015,2016 Yamwat contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
